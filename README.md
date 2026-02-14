@@ -38,7 +38,7 @@ Power BI dashboard — covering 9,551 restaurants across multiple cities.
 
 ## ▶️ How to Run This Project
 1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/zomato-sales-insights.git
+   git clone https://github.com/manishsehrawat0111/zomato-sales-insights.git
 
 2. Open NOTEBOOKS/data_cleaning.ipynb in Jupyter
 
