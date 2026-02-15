@@ -1,6 +1,6 @@
 # 🍕 Zomato Sales & Customer Insights
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](ASSETS/dashboard_preview.png)
 
 ## 📌 Project Overview
 This project performs a complete end-to-end data analysis pipeline
@@ -32,26 +32,26 @@ Power BI dashboard — covering 9,551 restaurants across multiple cities.
 
 ## 📁 Repository Structure
 ├── NOTEBOOKS/      # Jupyter Notebook for data cleaning & MySQL loading
-├── data/           # Raw and cleaned datasets
-├── powerbi/        # Power BI dashboard file (.pbix)
-└── assets/         # Dashboard screenshot
+├── DATA/           # Raw and cleaned datasets
+├── POWERBI/        # Power BI dashboard file (.pbix)
+└── ASSETS/         # Dashboard screenshot
 
 ## ▶️ How to Run This Project
 1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/zomato-sales-insights.git
+   git clone https://github.com/manishsehrawat0111/zomato-sales-insights.git
 
-2. Open NOTEBOOKS/data_cleaning.ipynb in Jupyter
+2. Open NOTEBOOKS/python+mysql+powerbi.ipynb in Jupyter
 
 3. Update your MySQL credentials in the notebook:
    host = "localhost"
-   user = "root"
-   password = "YOUR_PASSWORD"
-   database = "zomato_db"
+   user = "pandas"
+   password = "pandas"
+   database = "pandasdb"
 
 4. Run all cells — this will clean the data and
    load it directly into MySQL via pandas to_sql()
 
-5. Open powerbi/zomato_dashboard.pbix in Power BI Desktop
+5. Open POWERBI/zomato_dashboard.pbix in Power BI Desktop
 
 ## 📬 Contact
 Manish Sehrawat — LinkedIn URL — manishsehrawat0111@gmail.com
