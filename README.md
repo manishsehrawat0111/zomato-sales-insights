@@ -54,4 +54,4 @@ Power BI dashboard — covering 9,551 restaurants across multiple cities.
 5. Open POWERBI/zomato_dashboard.pbix in Power BI Desktop
 
 ## 📬 Contact
-Manish Sehrawat — (https://www.linkedin.com/in/manish-sehrawat-1315833a9/) — manishsehrawat0111@gmail.com
+Manish Sehrawat — (https://www.linkedin.com/in/manish-sehrawat-ms/) — manishsehrawat0111@gmail.com
